@@ -1,7 +1,7 @@
 "use client";
 import { motion } from "framer-motion";
 import Image from "next/image";
-import { Download, Mail, ArrowDown, MapPin, Phone, Linkedin } from "lucide-react";
+import { Download, Mail, ArrowDown, MapPin, Phone } from "lucide-react";
 
 export default function Hero() {
   return (
