@@ -196,12 +196,12 @@ export default function Hero() {
               {/* Photo container */}
               <div className="relative w-64 h-64 md:w-80 md:h-80 rounded-full overflow-hidden border-4 border-white/20 shadow-2xl">
                 <Image
-                  src="/sneha-profile.jpg"
+                  src="/snehpic.jpeg"
                   alt="Sneha Kumari – Accounts Payable Professional"
                   fill
                   className="object-cover object-center"
                   priority
-                />
+/>
               </div>
 
               {/* Floating badge — Experience */}
